@@ -1,4 +1,4 @@
-# Build&rarr;It [![Build Status](https://api.travis-ci.org/AjayBrahmakshatriya/buildit.svg?branch=master)](https://travis-ci.org/AjayBrahmakshatriya/buildit)
+# Build&rarr;It [![Build Status](https://travis-ci.com/modern-cmake/buildit.svg?branch=master)](https://travis-ci.com/modern-cmake/buildit.svg?branch=master)
 
 Build&rarr;It is a type based library framework for multi-stage imperative 
 programming. Build&rarr;It supports programmatically generating ASTs for an
